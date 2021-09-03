@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>BOE_citycounty</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This GIS layer contains the boundaries of the unincorporated county and incorporated cities within the state of California. The boundaries are based on the State Board of Equalization tax rate area maps. Some differences may occur between actual recorded boundaries and boundary placement in the tax rate area GIS map. Tax rate area boundaries are representations of taxing jurisdictions for the purpose of determining property tax assessments and should not be used to determine precise city or county boundary line locations.Last update May 10, 2021 for new annexations to cities</abstract>
+            <purpose>This GIS layer contains the boundaries of the unincorporated county and incorporated cities within the state of California. The boundaries are based on the State Board of Equalization's tax rate area maps. Updated quarterly for new annexations.
+
+updated 5/10/2021 published 5/28/2021</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>BOE</themekey>
+                <themekey>CAOpenData</themekey>
+                <themekey>CAOpenData - Board of Equalization</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Every reasonable effort has been made to assure the accuracy of the maps and data provided; nevertheless, some information may not be accurate. The California State Board of Equalization assumes no responsibility arising from use of this information. THE MAPS AND ASSOCIATED DATA ARE PROVIDED WITHOUT WARRANTY OF ANY KIND, either expressed or implied, including but not limited to, the implied warranties of merchantability and fitness for a particular purpose. Before making decisions using the information provided on this map, contact the Board of Equalization to confirm the validity of the data provided.</useconst>
+        <datacred>BOE</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
