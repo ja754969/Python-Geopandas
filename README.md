@@ -8,7 +8,8 @@
 1. Your First Map  
 2. Coordinate Reference Systems  
 3. Interactive Maps  
-4. 
+4. Manipulating Geospatial Data  
+5. Proximity Analysis
 ## [Your First Map](https://www.kaggle.com/alexisbcook/your-first-map)
 ### Exercise:computer: [Your First Map](https://www.kaggle.com/jadentseng/exercise-your-first-map/edit)
 ## [Coordinate Reference Systems](https://www.kaggle.com/alexisbcook/coordinate-reference-systems)
