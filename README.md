@@ -246,3 +246,6 @@ embed_map(m_2, 'q_2.html')
 Can you detect a relationship between proximity to a plate boundary and earthquake depth? Does this pattern hold globally? In Japan?  
 * In the northern half of Japan, it does appear that earthquakes closer to plate boundaries tend to be shallower (and earthquakes farther from plate boundaries are deeper). This pattern is repeated in other locations, such as the western coast of South America. But, it does not hold everywhere (for instance, in China, Mongolia, and Russia).  
 #### 3) Which prefectures have high population density?
+
+
+<iframe src="https://www.kaggle.com/embed/alexisbcook/proximity-analysis?kernelSessionId=64769095" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Proximity Analysis"></iframe>
