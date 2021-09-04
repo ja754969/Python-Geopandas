@@ -9,7 +9,7 @@
 2. Coordinate Reference Systems  
 3. Interactive Maps  
 4. Manipulating Geospatial Data  
-5. Proximity Analysis
+5. Proximity Analysis  
 ## [Your First Map](https://www.kaggle.com/alexisbcook/your-first-map)
 ### Exercise:computer: [Your First Map](https://www.kaggle.com/jadentseng/exercise-your-first-map/edit)
 ## [Coordinate Reference Systems](https://www.kaggle.com/alexisbcook/coordinate-reference-systems)
@@ -247,5 +247,11 @@ Can you detect a relationship between proximity to a plate boundary and earthqua
 * In the northern half of Japan, it does appear that earthquakes closer to plate boundaries tend to be shallower (and earthquakes farther from plate boundaries are deeper). This pattern is repeated in other locations, such as the western coast of South America. But, it does not hold everywhere (for instance, in China, Mongolia, and Russia).  
 #### 3) Which prefectures have high population density?
 
-
-<iframe src="https://www.kaggle.com/embed/alexisbcook/proximity-analysis?kernelSessionId=64769095" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Proximity Analysis"></iframe>
+## Manipulating Geospatial Data  
+* Introduction
+* Geocoding
+* Table Joins
+## Proximity Analysis
+* Introduction  
+* Measuring Distance  
+* Creating A Buffer  
